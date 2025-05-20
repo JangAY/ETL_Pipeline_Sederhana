@@ -1,0 +1,104 @@
+2025-05-19 00:39:58,619 | INFO     | === ETL STARTED ===
+2025-05-19 00:39:58,711 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 00:41:58,739 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 00:41:58,743 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 00:41:59,025 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 00:41:59,026 | INFO     | Step 3/3 – LOAD
+2025-05-19 00:41:59,121 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 00:41:59,299 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 00:42:04,385 | INFO     | === ETL FINISHED ===
+2025-05-19 01:25:03,749 | INFO     | === ETL STARTED ===
+2025-05-19 01:25:03,752 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 01:26:53,637 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 01:26:53,642 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 01:26:54,030 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 01:26:54,042 | INFO     | Step 3/3 – LOAD
+2025-05-19 01:26:54,289 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 01:26:55,217 | INFO     | === ETL FINISHED ===
+2025-05-19 01:34:22,076 | INFO     | === ETL STARTED ===
+2025-05-19 01:34:22,079 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 01:36:23,500 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 01:36:23,502 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 01:36:23,802 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 01:36:23,806 | INFO     | Step 3/3 – LOAD
+2025-05-19 01:36:24,064 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 01:36:24,269 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 01:36:30,251 | INFO     | === ETL FINISHED ===
+2025-05-19 01:55:42,498 | INFO     | === ETL STARTED ===
+2025-05-19 01:55:42,500 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 01:57:32,491 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 01:57:32,493 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 01:57:32,790 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 01:57:32,792 | INFO     | Step 3/3 – LOAD
+2025-05-19 01:57:33,051 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 01:57:33,325 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 01:57:40,351 | INFO     | === ETL FINISHED ===
+2025-05-19 01:58:50,168 | INFO     | === ETL STARTED ===
+2025-05-19 01:58:50,170 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 02:00:40,150 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 02:00:40,162 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 02:00:40,548 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 02:00:40,551 | INFO     | Step 3/3 – LOAD
+2025-05-19 02:00:40,875 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 02:00:41,028 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 02:00:48,322 | INFO     | === ETL FINISHED ===
+2025-05-19 02:03:40,413 | INFO     | === ETL STARTED ===
+2025-05-19 02:03:40,415 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 02:05:30,219 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 02:05:30,224 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 02:05:30,499 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 02:05:30,510 | INFO     | Step 3/3 – LOAD
+2025-05-19 02:05:30,713 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 02:05:30,956 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 02:05:38,379 | INFO     | === ETL FINISHED ===
+2025-05-19 02:51:16,077 | INFO     | === ETL STARTED ===
+2025-05-19 02:51:16,077 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 02:53:05,631 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 02:53:05,633 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 02:53:05,870 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 02:53:05,872 | INFO     | Step 3/3 – LOAD
+2025-05-19 02:53:06,104 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 02:53:06,354 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 02:53:12,009 | INFO     | === ETL FINISHED ===
+2025-05-19 03:00:34,330 | INFO     | === ETL STARTED ===
+2025-05-19 03:00:34,331 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 03:02:34,144 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 03:02:34,146 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 03:02:34,507 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 03:02:34,789 | INFO     | Step 3/3 – LOAD
+2025-05-19 03:02:35,326 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 03:02:35,594 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 03:02:57,048 | ERROR    | Gagal simpan ke database
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\Submission-Fundamental-Pemrosesan-Data\main.py", line 109, in main
+    save_sql(df, sql_url=SQL_URL)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+TypeError: save_sql() missing 1 required positional argument: 'db_name'
+2025-05-19 03:02:57,143 | INFO     | === ETL FINISHED ===
+2025-05-19 03:30:45,736 | INFO     | === ETL STARTED ===
+2025-05-19 03:30:45,738 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 03:32:34,964 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 03:32:34,967 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 03:32:35,315 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 03:32:35,316 | INFO     | Step 3/3 – LOAD
+2025-05-19 03:32:35,594 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 03:32:35,816 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 03:32:43,596 | INFO     | === ETL FINISHED ===
+2025-05-19 03:43:13,938 | INFO     | === ETL STARTED ===
+2025-05-19 03:43:13,940 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 03:45:04,445 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 03:45:04,454 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 03:45:04,743 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 03:45:04,746 | INFO     | Step 3/3 – LOAD
+2025-05-19 03:45:04,959 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 03:45:05,290 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 03:45:12,268 | INFO     | === ETL FINISHED ===
+2025-05-19 03:48:49,566 | INFO     | === ETL STARTED ===
+2025-05-19 03:48:49,568 | INFO     | Step 1/3 – EXTRACT
+2025-05-19 03:50:39,849 | INFO     | Berhasil mengekstrak 1000 baris.
+2025-05-19 03:50:39,856 | INFO     | Step 2/3 – TRANSFORM
+2025-05-19 03:50:40,145 | INFO     | Data setelah transform: 867 baris, 7 kolom
+2025-05-19 03:50:40,146 | INFO     | Step 3/3 – LOAD
+2025-05-19 03:50:40,435 | INFO     | CSV disimpan di fashion.csv
+2025-05-19 03:50:40,683 | INFO     | file_cache is only supported with oauth2client<4.0.0
+2025-05-19 03:50:48,079 | INFO     | === ETL FINISHED ===

@@ -1,0 +1,11 @@
+# Install requirements
+pip install -r requirements.txt
+
+# Run program
+python main.py
+
+# Run tests
+pytest
+
+# URL Google Sheets
+https://docs.google.com/spreadsheets/d/17EtvDvS-a9W-x_NVDzT02KUeSpwvFU3aSfGm2hAgVNo/edit?gid=0#gid=0
