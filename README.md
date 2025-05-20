@@ -12,6 +12,7 @@ menyimpan ke:
 ---
 
 ## 🗂 Struktur Folder
+```
 submission-fundamental-pemrosesan-data/
 │
 ├── utils/ # fungsi inti
@@ -29,32 +30,38 @@ submission-fundamental-pemrosesan-data/
 ├── main.py # entry‑point CLI ETL
 ├── requirements.txt # pip freeze otomatis
 └── README.md
-
+```
 ---
 
 ## 🔧 Instalasi Lokal
 
-```bash
 # 1. Clone / download repo
+```bash
 git clone https://github.com/yourname/fashion-etl.git
 cd fashion-etl
-
+```
 # 2. Buat virtualenv (opsional tapi disarankan)
+```powershell / bash
 python -m venv .env
 # Windows
 .env\Scripts\activate
 # macOS / Linux
 source .env/bin/activate
-
+```
 # 3. Install dependensi
+```bash
 pip install -r requirements.txt
-
+```
 # 4. Menjalankan ETL
+```bash
 python main.py           # run full ETL
+```
 
 # 5. Unit Test
 Semua fungsi inti memiliki test Pytest.
 
+```bash
 pytest -q
 
+```
 ---
