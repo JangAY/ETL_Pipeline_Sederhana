@@ -35,32 +35,29 @@ submission-fundamental-pemrosesan-data/
 
 ## 🔧 Instalasi Lokal
 
-# 1. Clone / download repo
 ```bash
+# 1. Clone / download repo
 git clone https://github.com/yourname/fashion-etl.git
 cd fashion-etl
-```
+
 # 2. Buat virtualenv (opsional tapi disarankan)
-```powershell / bash
+
 python -m venv .env
 # Windows
 .env\Scripts\activate
 # macOS / Linux
 source .env/bin/activate
-```
+
 # 3. Install dependensi
-```bash
+
 pip install -r requirements.txt
-```
+
 # 4. Menjalankan ETL
-```bash
+
 python main.py           # run full ETL
-```
 
 # 5. Unit Test
-Semua fungsi inti memiliki test Pytest.
-
-```bash
+# Semua fungsi inti memiliki test Pytest.
 pytest -q
 
 ```
